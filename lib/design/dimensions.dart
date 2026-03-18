@@ -17,6 +17,8 @@ const double width12 = 12;
 const double width24 = 24;
 const double width92 = 92;
 
+const double padding41 = 41;
+const double padding37 = 37;
 const double padding24 = 24;
 const double padding20 = 20;
 const double padding16 = 16;

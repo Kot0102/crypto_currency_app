@@ -9,7 +9,7 @@ class HomeCryptoList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListView.separated(
-      itemCount: 5,
+      itemCount: 20,
       separatorBuilder: (BuildContext context, index) {
         return SizedBox(height: 8);
       },

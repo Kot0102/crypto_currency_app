@@ -1,6 +1,7 @@
 import 'package:crypto_currency_app/design/colors.dart';
 import 'package:crypto_currency_app/design/dimensions.dart';
 import 'package:crypto_currency_app/pages/home/home_crypto_list.dart';
+import 'package:crypto_currency_app/widgets/bottom_nav_bar.dart';
 import 'package:crypto_currency_app/widgets/homepage_welcome.dart';
 import 'package:flutter/material.dart';
 
@@ -30,6 +31,7 @@ class Homepage extends StatelessWidget {
           Expanded(child: HomeCryptoList()),
         ],
       ),
+      bottomNavigationBar: BottomNavBar(),
     );
   }
 }
