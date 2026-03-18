@@ -1,11 +1,12 @@
 const double height72 = 72;
 const double height12 = 12;
 const double height24 = 24;
-const double height20 = 20;
+const double height15 = 15;
 const double height31 = 31;
 const double height141 = 141;
 const double height8 = 8;
 
+const double fontSize20 = 20;
 const double fontSize18 = 18;
 const double fontSize16 = 16;
 const double fontSize12 = 12;

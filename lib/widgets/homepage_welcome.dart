@@ -47,7 +47,7 @@ class HomePageWelcome extends StatelessWidget {
                 fontFamily: "CircularStd",
               ),
             ),
-            SizedBox(height: height20),
+            SizedBox(height: height15),
             SizedBox(
               height: height31,
               width: width92,
@@ -56,7 +56,7 @@ class HomePageWelcome extends StatelessWidget {
                 style: ElevatedButton.styleFrom(
                   backgroundColor: cardsBackGroundColor,
                   elevation: elevation0,
-                  padding: EdgeInsets.zero, // важно для фиксированного размера
+                  padding: EdgeInsets.zero,
                   shape: RoundedRectangleBorder(
                     borderRadius: BorderRadius.circular(circular4),
                   ),
