@@ -25,3 +25,5 @@ final SvgPicture portfolioBarItem = SvgPicture.asset('assets/images/portfolio_ba
 final SvgPicture profileBarItem = SvgPicture.asset('assets/images/profile_bar_item.svg');
 
 final SvgPicture rewardsBarItem = SvgPicture.asset('assets/images/rewards_bar_item.svg');
+
+final SvgPicture portfolioBalanceSep = SvgPicture.asset('assets/images/portfolio_balance_sep.svg');

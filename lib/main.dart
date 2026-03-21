@@ -1,4 +1,5 @@
 import 'package:crypto_currency_app/pages/home/homepage.dart';
+import 'package:crypto_currency_app/pages/portfolio/portfoliopage.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -11,7 +12,7 @@ class CryptoCurrencyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: const Homepage(),
+      home: const PortfolioPage(),
     );
   }
 }

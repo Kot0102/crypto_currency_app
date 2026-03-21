@@ -6,6 +6,8 @@ const Color cardsBackGroundColor = Color(0xFFFFFFFF);
 
 const Color textBannersColor = Color(0xFFFFFFFF);
 
+const Color secondaryTextBannersColor = Color(0x68FFFFFF);
+
 const Color textTitleCardColor = Color(0xFF212529);
 
 const Color textSubtitleCardColor = Color(0xFF6C757D);
